@@ -101,10 +101,10 @@ Each view encapsulates complex logic for Power BI dashboards, enabling quick ite
 
 ## 📄 Reports
 
-- [Overview Dashboard Report](Reports/Overview_Dashboard.pdf)  
-- [Store Performance Report](Reports/01_Store_Performance_Report.pdf)  
-- [Product Performance Report](Reports/02_Product_Performance_Report.pdf)  
-- [POS System Analytics Dashboard Summary](Reports/POS_System_Analytics_Dashboard.pdf)
+- [Overview Dashboard Report](Reports/Overview%20DashBoard.pdf)  
+- [Store Performance Report](Reports/01_Store%20Performance%20Report.pdf)  
+- [Product Performance Report](Reports/02_Product%20Performance%20Report.pdf)  
+- [POS System Analytics Dashboard Summary](Reports/POS%20System%20Analytics%20Dashboard%20Report.pdf)
 
 ---
 
