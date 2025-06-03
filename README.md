@@ -136,6 +136,7 @@ Each view encapsulates complex logic for Power BI dashboards, enabling quick ite
 ## 🙋‍♂️ Author
 
 **Sai Karthik Maddirala**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-karthik-maddirala-916058196/)
 🔗 [GitHub Profile](https://github.com/karthikmaddirala)
 
 ---
