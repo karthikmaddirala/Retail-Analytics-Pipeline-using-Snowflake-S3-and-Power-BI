@@ -45,7 +45,7 @@ CREATE OR REPLACE FILE FORMAT csv_format
 -- Create the stage
 CREATE OR REPLACE STAGE my_s3_stage
 URL = 's3://data-analysis'
-CREDENTIALS = (AWS_KEY_ID = '' AWS_SECRET_KEY = '')
+CREDENTIALS = (AWS_KEY_ID = '' AWS_SECRET_KEY = '') -- S3 Credentials
 FILE_FORMAT = (TYPE = CSV SKIP_HEADER = 1); -- Assumes the first row contains headers
 
 list @my_s3_stage;
