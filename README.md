@@ -7,6 +7,8 @@ This project presents an end-to-end retail analytics pipeline that simulates a P
 ## 📌 Project Overview
 
 The pipeline ingests clean, structured POS-style CSV files from Amazon S3, loads them into Snowflake using external stages, and exposes modeled data via SQL views. These views are directly queried from Power BI to build dynamic dashboards.
+“I modeled the schema in Snowflake using a star schema, and built a semantic layer using SQL views and Power BI relationships to define KPIs, hierarchies, and drill-down paths for analysis.
+I defined relationships in Snowflake to model a clean star schema. Then, in Power BI’s semantic layer, I mirrored those joins to ensure slicers and filters worked across visuals via one-to-many relationships.
 
 > ⚠️ This project intentionally omits a transformation layer — assuming data arrives analytics-ready — as is common in many real-world systems that rely on upstream cleansing (e.g., vendor-delivered flat files, POS exports).
 
