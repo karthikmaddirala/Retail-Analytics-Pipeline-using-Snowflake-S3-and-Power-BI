@@ -1,6 +1,6 @@
 # 🛒 Retail Analytics Pipeline using Snowflake, S3, and Power BI
 
-This project presents an end-to-end retail analytics pipeline that simulates a Point of Sale (POS) data flow. It leverages Amazon S3 for data storage, Snowflake for warehousing and semantic modeling, and Power BI for real-time dashboarding. The goal is to deliver business insights from structured sales and customer data without a traditional transformation layer.
+This project presents an end-to-end retail analytics pipeline that simulates a Point of Sale (POS) data flow. It leverages Amazon S3 for data storage, Snowflake for warehousing and semantic modeling, and Power BI for real-time dashboarding. The goal is to deliver business insights from structured sales and customer data.
 
 ---
 
